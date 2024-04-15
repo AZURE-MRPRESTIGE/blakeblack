@@ -1,4 +1,4 @@
-{
+  {
   "name": "Frigate Devcontainer",
   "dockerComposeFile": "../docker-compose.yml",
   "service": "devcontainer",
